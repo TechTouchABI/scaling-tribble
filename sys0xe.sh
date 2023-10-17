@@ -1,6 +1,4 @@
 
-@reboot wget 
-
 mkdir /tmp/backup \
 
 cd /tmp/backup \
